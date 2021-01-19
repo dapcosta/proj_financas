@@ -2,4 +2,4 @@
 *.sqlite3
 venv
 *.pyc
-proj_financas/__pycache__/
+django_proj_financas/__pycache__/
